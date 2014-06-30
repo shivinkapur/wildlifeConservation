@@ -1,0 +1,4 @@
+Data Set:
+100,700,140,210,350,400,550,160,870,220,
+Input : 300
+Sparsely Populated

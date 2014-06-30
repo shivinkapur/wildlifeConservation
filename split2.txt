@@ -1,0 +1,8 @@
+1,1,himalayan,region,mountains,1
+2,2,Western,Ghats,mountains,2
+3,3,Eastern,Ghats,mountains,3
+4,4,Sunderban,delta,wetlands,4
+5,5,Thar,Desert,desert,5
+6,6,Ganges,plain,plains,6
+7,7,Gir,forest,forests,7
+8,8,Jim,Corbett,forests,8
